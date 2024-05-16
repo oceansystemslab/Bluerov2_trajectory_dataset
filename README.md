@@ -3,7 +3,7 @@
 
 This opensource dataset contains trajectories obtained with the bluerov2 robot. 
 
-![alt text](https://github.com/oceansystemslab/Bluerov2_trajectory_dataset/main/figures/Bluerov2_water_tank.jpg)
+![alt text](https://raw.githubusercontent.com/oceansystemslab/Bluerov2_trajectory_dataset/main/figures/Bluerov2_water_tank.jpg)
 
 ## Description
 
