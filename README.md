@@ -3,6 +3,7 @@
 
 This opensource dataset contains trajectories obtained with the bluerov2 robot. 
 
+![alt text](https://github.com/oceansystemslab/Bluerov2_trajectory_dataset/figures/Bluerov2_water_tank.jpg)
 
 ## Description
 
@@ -16,3 +17,7 @@ The dataset is stored in CSV files containing different trajectories. The variab
 - Ux, Uy, Uz, Vx, Vy, Vz: the normalized input force (in body frame)
 - Fx, Fy, Fz, Tx, Ty, Tz: input forces in body frame
 - pwm_1 -> pwm_8: the raw pwm inputs to the eight thrusters
+
+
+The full dataset is stored in the folder. 
+
